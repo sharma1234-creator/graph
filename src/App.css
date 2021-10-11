@@ -1,0 +1,93 @@
+table{
+  border: 1px solid black;
+  border-collapse: collapse;
+  
+}
+
+th,td{
+  border: 1px solid black;
+  border-collapse:collapse;
+  padding:20px;
+  
+  /* height:10px; */
+  
+  
+}
+.container {
+  width: auto;
+  background: #ebebeb;
+  border-radius: 6px;
+  margin: 10px;
+  padding: 5px;
+}
+.table-head{
+  background-color: rgb(171, 185, 185);
+
+}
+.agent-id{
+  background-color: rgb(243, 235, 225);
+}
+
+.App{
+  position:relative;
+  /* left:400px; */
+  /* top:500px; */
+  /* top:10px; */
+  /* overflow-x: hidden; */
+  bottom:400px;
+  right:400px;
+  transform: rotate(270deg);
+  
+}
+.bar-content{
+  margin-top:300px;
+  transform: rotate(-450deg);
+
+
+}
+.bar-content1{
+
+}
+.pie-content{
+  margin-left:480px;
+}
+.side-bar{
+  position:relative;
+  right:740px;
+  bottom:340px;
+  
+  /* top:800px; */
+  /* -ms-transform: rotate(20deg);  */
+  transform: rotate(-270deg);
+}
+
+.main-content{
+  position:relative;
+  left:800px;
+  bottom:370px;
+}
+.payment-mode{
+  position:relative;
+  bottom:140px;
+  left:250px;
+}
+.cash1{
+  color: rgba(19, 56, 177, 0.938);
+}
+.card1{
+  color:green;
+}
+.mobile1{
+  color:red;
+}
+.bar-chart{
+  position:relative;
+  left:300px;
+  bottom:50px;
+  font-family: nunito;
+  text-shadow: 2px 2px rgb(188, 201, 188);
+}
+.Pies{
+  position:relative;
+  top:400px;
+}
